@@ -4,7 +4,7 @@
 const CONFIG = {
   // Lanyard: join https://discord.gg/lanyard and put your Discord user ID here
   // Get your ID: Discord → Settings → Advanced → Developer Mode → right-click your name → Copy User ID
-  DISCORD_USER_ID: 'YOUR_DISCORD_USER_ID',
+  DISCORD_USER_ID: '363091363257909249',
 
   // Last.fm (optional – for YT Music now-playing via scrobbling)
   // 1. Create free account at last.fm
@@ -12,7 +12,7 @@ const CONFIG = {
   //    Recommended: "Web Scrobbler" browser extension → works with YT Music
   // 3. Get your API key at https://www.last.fm/api/account/create
   // 4. Fill in your username and API key below
-  LASTFM_USERNAME: '',   // e.g. 'minkdev'
+  LASTFM_USERNAME: 'ocularfrog',   // e.g. 'minkdev'
   LASTFM_API_KEY:  '',   // e.g. 'abc123...'
 
   // Refresh intervals (ms)
