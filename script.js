@@ -12,7 +12,7 @@ const CONFIG = {
   //    Recommended: "Web Scrobbler" browser extension → works with YT Music
   // 3. Get your API key at https://www.last.fm/api/account/create
   // 4. Fill in your username and API key below
-  LASTFM_USERNAME: process.env.LASTFM_API_KEY,   // e.g. 'minkdev'
+  LASTFM_USERNAME: '08049afebac0a940e4dd5b5010d5158f',   // e.g. 'minkdev'
   LASTFM_API_KEY:  'ocularfrog',   // e.g. 'abc123...'
 
   // Refresh intervals (ms)
