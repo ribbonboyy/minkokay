@@ -4,7 +4,7 @@
 const CONFIG = {
   // Lanyard: join https://discord.gg/lanyard and put your Discord user ID here
   // Get your ID: Discord → Settings → Advanced → Developer Mode → right-click your name → Copy User ID
-  DISCORD_USER_ID: 'YOUR_DISCORD_USER_ID',
+  DISCORD_USER_ID: '363091363257909249',
 
   // Last.fm (optional – for YT Music now-playing via scrobbling)
   // 1. Create free account at last.fm
