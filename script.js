@@ -13,7 +13,7 @@ const CONFIG = {
   // 3. Get your API key at https://www.last.fm/api/account/create
   // 4. Fill in your username and API key below
   LASTFM_USERNAME: '',   // e.g. 'minkdev'
-  LASTFM_API_KEY:  '',   // e.g. 'abc123...'
+  LASTFM_API_KEY:  'ocularfrog',   // e.g. 'abc123...'
 
   // Refresh intervals (ms)
   LASTFM_POLL_MS: 15_000,   // how often to check now-playing
